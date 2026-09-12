@@ -2,11 +2,8 @@
   "name": "chaudharykaswaad",
   "version": "1.0.0",
   "description": "Chaudhary Ka Swaad - Artisanal Bakery, Heritage Confections & 4K Interactive Experience",
-  "main": "index.html",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js",
-    "build": "echo 'Static build ready for Vercel deployment'"
+    "dev": "node server.js"
   },
   "keywords": [
     "bakery",
@@ -18,7 +15,5 @@
     "confectionery"
   ],
   "author": "Chaudhary Ka Swaad",
-  "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {}
+  "license": "ISC"
 }
